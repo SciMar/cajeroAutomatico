@@ -1,0 +1,13 @@
+# Archivos y carpetas que Git debe ignorar
+
+# Carpeta de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuración de VS Code
+.vscode/
